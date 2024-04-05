@@ -23,7 +23,7 @@
     "swig-templates": "^2.0.3"
   },
   "devDependencies": {
-    "eslint": "^8.0.0",
+    "eslint": "^9.0.0",
     "eslint-config-koa": "^2.0.2",
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-promise": "^6.0.0",
